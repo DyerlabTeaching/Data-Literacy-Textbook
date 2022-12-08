@@ -8,8 +8,10 @@ book:
   date: "12/8/2022"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - basic_data_types.qmd
+    - factors.qmd
+    - joins.qmd
+    - shape_files.qmd
     - references.qmd
 
 bibliography: references.bib
